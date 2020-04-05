@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f0206a4-e1cb-4a2e-847d-82db3a8a73a1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/startmysql.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detailurl.py" beforeDir="false" afterPath="$PROJECT_DIR$/detailurl.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/start.py" beforeDir="false" afterPath="$PROJECT_DIR$/start.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +34,28 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.detailurl">
+    <configuration name="detailurl" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="zhigeng" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/detailurl.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="zhigeng" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -53,9 +77,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="startmysql" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="zhigeng" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/startmysql.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.detailurl" />
         <item itemvalue="Python.start" />
+        <item itemvalue="Python.startmysql" />
       </list>
     </recent_temporary>
   </component>
@@ -77,21 +124,21 @@
       <screen x="63" y="27" width="1857" height="1053" />
     </state>
     <state x="681" y="357" width="611" height="390" key="#com.intellij.fileTypes.FileTypeChooser/63.27.1857.1053@63.27.1857.1053" timestamp="1586061408985" />
-    <state width="1834" height="301" key="GridCell.Tab.0.bottom" timestamp="1586061278558">
+    <state width="1834" height="362" key="GridCell.Tab.0.bottom" timestamp="1586071752677">
       <screen x="63" y="27" width="1857" height="1053" />
     </state>
-    <state width="1834" height="301" key="GridCell.Tab.0.bottom/63.27.1857.1053@63.27.1857.1053" timestamp="1586061278558" />
-    <state width="1834" height="301" key="GridCell.Tab.0.center" timestamp="1586061278558">
+    <state width="1834" height="362" key="GridCell.Tab.0.bottom/63.27.1857.1053@63.27.1857.1053" timestamp="1586071752677" />
+    <state width="1834" height="362" key="GridCell.Tab.0.center" timestamp="1586071752677">
       <screen x="63" y="27" width="1857" height="1053" />
     </state>
-    <state width="1834" height="301" key="GridCell.Tab.0.center/63.27.1857.1053@63.27.1857.1053" timestamp="1586061278558" />
-    <state width="1834" height="301" key="GridCell.Tab.0.left" timestamp="1586061278557">
+    <state width="1834" height="362" key="GridCell.Tab.0.center/63.27.1857.1053@63.27.1857.1053" timestamp="1586071752677" />
+    <state width="1834" height="362" key="GridCell.Tab.0.left" timestamp="1586071752676">
       <screen x="63" y="27" width="1857" height="1053" />
     </state>
-    <state width="1834" height="301" key="GridCell.Tab.0.left/63.27.1857.1053@63.27.1857.1053" timestamp="1586061278557" />
-    <state width="1834" height="301" key="GridCell.Tab.0.right" timestamp="1586061278558">
+    <state width="1834" height="362" key="GridCell.Tab.0.left/63.27.1857.1053@63.27.1857.1053" timestamp="1586071752676" />
+    <state width="1834" height="362" key="GridCell.Tab.0.right" timestamp="1586071752677">
       <screen x="63" y="27" width="1857" height="1053" />
     </state>
-    <state width="1834" height="301" key="GridCell.Tab.0.right/63.27.1857.1053@63.27.1857.1053" timestamp="1586061278558" />
+    <state width="1834" height="362" key="GridCell.Tab.0.right/63.27.1857.1053@63.27.1857.1053" timestamp="1586071752677" />
   </component>
 </project>
